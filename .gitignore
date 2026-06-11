@@ -1,0 +1,50 @@
+# Python
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+.env
+
+# Node
+
+node_modules/
+.next/
+out/
+
+# Logs
+
+*.log
+
+# VS Code
+
+.vscode/
+
+# Mac
+
+.DS_Store
+
+# Windows
+
+Thumbs.db
+
+# Uploads
+
+storage/uploads/*
+storage/processed/*
+
+# Azure
+
+.azure/
+
+# Coverage
+
+.coverage
+htmlcov/
+
+# Build
+
+dist/
+build/
