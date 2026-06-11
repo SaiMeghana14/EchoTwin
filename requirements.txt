@@ -4,3 +4,12 @@ openai
 python-dotenv
 fastapi
 uvicorn
+pydantic
+python-multipart
+firebase-admin
+deepface
+opencv-python
+speechbrain
+librosa
+numpy
+
