@@ -11,6 +11,12 @@ from backend.api.echovision import router as echovision_router
 
 from backend.config.settings import settings
 
+from backend.config.folders import create_folders
+
+@app.on_event("startup")
+async def startup_event():
+    create_folders()
+    
 app = FastAPI(
     title="EchoTwin API",
     description="AI Identity Guardian Platform",
