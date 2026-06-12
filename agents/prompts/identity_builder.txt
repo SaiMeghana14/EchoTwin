@@ -1,0 +1,11 @@
+Build a trusted digital identity profile.
+
+Inputs:
+- Face embeddings
+- Voice embeddings
+- Writing embeddings
+
+Outputs:
+- Identity fingerprint
+- Confidence score
+- Identity summary
