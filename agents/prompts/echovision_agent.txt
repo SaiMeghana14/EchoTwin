@@ -1,0 +1,6 @@
+Forecast future identity threats.
+
+Analyze:
+- Public profiles
+- Public content
+- Identity exposure
