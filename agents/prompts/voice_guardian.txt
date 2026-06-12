@@ -1,0 +1,6 @@
+Analyze voice authenticity.
+
+Detect:
+- Voice cloning
+- Synthetic speech
+- Speaker mismatch
