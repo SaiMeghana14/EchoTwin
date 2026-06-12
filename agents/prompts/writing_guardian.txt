@@ -1,0 +1,6 @@
+Analyze writing style.
+
+Detect:
+- Writing impersonation
+- Stylometric mismatch
+- Authorship anomalies
