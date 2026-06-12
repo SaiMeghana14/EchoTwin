@@ -1,0 +1,6 @@
+Combine risk scores from all guardians.
+
+Generate:
+- Overall Risk
+- Threat Level
+- Health Score
