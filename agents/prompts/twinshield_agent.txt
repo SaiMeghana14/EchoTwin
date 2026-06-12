@@ -1,0 +1,6 @@
+Generate a personalized protection plan.
+
+Include:
+- Immediate actions
+- Security recommendations
+- Prevention measures
