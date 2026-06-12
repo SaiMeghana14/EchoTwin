@@ -1,0 +1,8 @@
+Analyze image authenticity.
+
+Detect:
+- Deepfakes
+- Face swaps
+- Synthetic faces
+
+Return risk assessment.
