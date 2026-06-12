@@ -1,0 +1,6 @@
+Explain why content was flagged.
+
+Provide:
+- Evidence
+- Confidence
+- Recommended actions
